@@ -1,0 +1,6 @@
+
+Opening Error Output File (error.txt) on Thu Mar 28 16:58:15.878, 2019
+
+
+pixel format = 32
+pixel format = 5.6.5

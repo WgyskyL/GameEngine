@@ -1,0 +1,30 @@
+﻿  RAIDERS3d.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(220): warning C4101: “hdc”: 未引用的局部变量
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(221): warning C4101: “ps”: 未引用的局部变量
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(375): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(376): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(377): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(329): warning C4101: “index”: 未引用的局部变量
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(498): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(566): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(567): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(568): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(569): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(610): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(611): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(634): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(635): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(639): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(640): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(641): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(701): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(723): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(724): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(725): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(726): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(760): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(900): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\c++\win32project1\win32project1\raiders3d.cpp(901): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Win32Project1.vcxproj -> E:\learning\C++\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> E:\learning\C++\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
