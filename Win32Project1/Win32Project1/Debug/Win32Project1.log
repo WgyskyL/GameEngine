@@ -1,30 +1,140 @@
-﻿  RAIDERS3d.cpp
+﻿  t3dlib3.cpp
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib3.cpp(859): warning C4101: “index”: 未引用的局部变量
+  t3dlib2.cpp
   c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(220): warning C4101: “hdc”: 未引用的局部变量
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(221): warning C4101: “ps”: 未引用的局部变量
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(375): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(376): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(377): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(329): warning C4101: “index”: 未引用的局部变量
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(498): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(566): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(567): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(568): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(569): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(610): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(611): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(634): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(635): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(639): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(640): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(641): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(701): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(723): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(724): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(725): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(726): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(760): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(900): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-e:\learning\c++\win32project1\win32project1\raiders3d.cpp(901): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
-  Win32Project1.vcxproj -> E:\learning\C++\Win32Project1\Debug\Win32Project1.exe
-  Win32Project1.vcxproj -> E:\learning\C++\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
+  t3dlib1.cpp
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(212): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(213): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(366): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(367): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(368): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(369): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(406): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(407): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(408): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(409): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(447): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(448): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(449): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(450): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(487): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(488): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(489): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(490): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(765): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(768): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(772): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(775): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(841): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(842): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(898): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(899): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(955): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(956): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(958): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(959): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1706): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1711): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1717): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1723): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1731): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1738): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1747): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1754): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1763): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1769): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1778): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1784): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1827): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1834): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1843): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1850): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1859): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1865): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1874): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(1880): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(2264): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“BYTE *”
+  e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(2264): note: 请考虑在格式字符串中使用“%hhd”
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(2264): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“BYTE *”
+  e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(2264): note: 请考虑在格式字符串中使用“%hhd”
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(2264): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“BYTE *”
+  e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(2264): note: 请考虑在格式字符串中使用“%hhd”
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(2264): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 4 拥有了类型“BYTE *”
+  e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(2264): note: 请考虑在格式字符串中使用“%hhd”
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(3529): warning C4101: “work_color”: 未引用的局部变量
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(4102): warning C4018: “<”: 有符号/无符号不匹配
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(4152): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(4268): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(4391): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(4515): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5152): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5153): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5154): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5239): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5248): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5256): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5257): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5258): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5259): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5265): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5266): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5272): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5273): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5609): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5610): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5622): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5623): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5666): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5675): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5683): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5684): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5685): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5686): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5692): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5693): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5699): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(5700): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6036): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6037): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6049): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6050): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6179): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6190): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6219): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6230): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6262): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6265): warning C4838: 从“int”转换到“float”需要收缩转换
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6265): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6272): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\t3dlib1.cpp(6273): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  RAIDERS3d.cpp
+  c:\program files (x86)\windows kits\8.1\include\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(220): warning C4101: “hdc”: 未引用的局部变量
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(221): warning C4101: “ps”: 未引用的局部变量
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(375): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(376): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(377): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(329): warning C4101: “index”: 未引用的局部变量
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(498): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(566): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(567): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(568): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(569): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(610): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(611): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(634): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(635): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(639): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(640): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(641): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(701): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(723): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(724): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(725): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(726): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(760): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(900): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\learning\engine\mygameengine\trunk\win32project1\win32project1\raiders3d.cpp(901): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+  Win32Project1.vcxproj -> E:\learning\Engine\MyGameEngine\trunk\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> E:\learning\Engine\MyGameEngine\trunk\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
